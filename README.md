@@ -88,6 +88,9 @@ c. H2o.ai
 Built several test cases related to the good credit client and specified features which would help him benefit from the lending club
 
 
+## Codelabs
+
+https://docs.google.com/document/d/1XyDee7mbb5fJd_6YnesZaol9H930KBxZi3hKCZ-uhHQ/edit?usp=sharing
 
 
 ## Built With
