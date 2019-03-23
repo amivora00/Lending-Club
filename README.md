@@ -83,6 +83,13 @@ c. H2o.ai
 
 
 
+**Cleaned Data (Google Drive)**
+
+Clean data file has been uploaded to Google Drive
+
+https://drive.google.com/open?id=1nf7bHeGCSwLSB_lrnQDUORIttdJiOBb7
+
+
 **Analysis**
 
 Built several test cases related to the good credit client and specified features which would help him benefit from the lending club
